@@ -21,7 +21,7 @@
         right: 0;
         text-align: center;
         .card {
-          border-radius:  5px;
+          border-radius:  10px;
           border-color: #80808042;
           border-style: solid;
           .card-content {
@@ -30,13 +30,35 @@
                 padding-bottom: 16px;
               }
               .info-box {
-                max-width: 70%;
+                max-width: 90%;
                 justify-content: center;
                 margin: auto;
                 border-style: solid;
-                border-color: rgb(4, 172, 4);
+                border-color: #71d771;
+                // background: #dfffdf;
+                .box-images {
+                  img {
+                    width: 70px;
+                  }
+                  .bottom-left-image {
+                    position: absolute;
+                    bottom: 63px;
+                    left: 6px;
+                  }
+                  .top-left-image {
+                    position: absolute;
+                    top: 36px;
+                    left: 6px;
+                  }
+                  .top-right-image {
+                    position: absolute;
+                    top: 36px;
+                    right: 6px;
+                  }
+                }
                 p {
-                  font-size: .75rem;
+                  padding-left: 16px;
+                  font-size: .70rem;
                   text-align: left;
                 }
               }

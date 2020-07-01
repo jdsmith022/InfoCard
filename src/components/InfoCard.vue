@@ -12,6 +12,14 @@
                 <div class="card-boxes">
                   <div class="spacing">
                     <div class="box info-box">
+                      <div class="box-images">
+                        <div class="top-left-image">
+                          <img src="../assets/images/factory.png" />
+                        </div>
+                        <div class="top-right-image">
+                          <img src="../assets/images/truck.png" />
+                        </div>
+                      </div>
                       <p>
                         All greenhosue emissions from the
                         <i><strong>manufacturing</strong></i> and <i><strong>shipping</strong></i>
@@ -21,11 +29,18 @@
                   </div>
                   <div class="card-boxes">
                     <div class="box info-box">
-                      <p>
-                        CO₂ok prevents the same amount
-                        of greenhosue emissions, making
-                        your purchase carbon neutral!
-                      </p>
+                      <div class="box-images">
+                        <div class="bottom-left-image">
+                          <img src="../assets/images/renewable.png" />
+                        </div>
+                      </div>
+                      <div class="box-text">
+                        <p>
+                          CO₂ok prevents the same amount
+                          of greenhosue emissions, making
+                          your purchase carbon neutral!
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </div>
