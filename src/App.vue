@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import NavBar from './page_components/NavBar.vue'
-import Header from './page_components/Header.vue'
+import NavBar from './components/NavBar.vue'
+import Header from './components/Header.vue'
 
 export default {
   name: 'App',

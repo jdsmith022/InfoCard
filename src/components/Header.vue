@@ -3,7 +3,7 @@
     <div class="container">
       <div class="header-content">
         <div class="header-text">
-          <div class="box centered">
+          <div class="box header-box centered">
             <h1 class="header">
               A whole new world
             </h1>
@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import InfoCard from '../infoCard_component/InfoCard.vue'
+import InfoCard from './InfoCard.vue'
 
 export default {
   components: {
