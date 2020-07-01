@@ -16,6 +16,7 @@
         position: absolute;
         bottom: 30px;
         max-width: 350px;
+        min-width: 320px !important;
         margin-left: auto;
         margin-right: auto;
         left: 0;
@@ -97,7 +98,6 @@
     .info-icon {
       .info-content {
         .display-card {
-          min-width: 240px;
           .card {
             .card-content {
               .card-boxes {
@@ -163,7 +163,7 @@
     .info-icon {
       .info-content {
         .display-card {
-          left: -34px;
+          left: -76px;
         }
       }
     }
