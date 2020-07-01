@@ -1,6 +1,6 @@
 # InfoCard
 
-![Demo of InfoCard](https://github.com/jdsmith022/InfoCard/blob/master/git_images/info.gif)
+![Demo of InfoCard](https://github.com/jdsmith022/InfoCard/blob/master/git_images/info0.gif)
 
 ## Description
 Quick project to play with layout of info card as an internship project for CO2ok.
