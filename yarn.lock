@@ -2298,6 +2298,13 @@ clone@^1.0.2:
   resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.4.tgz#da309cc263df15994c688ca902179ca3c7cd7c7e"
   integrity sha1-2jCcwmPfFZlMaIypAheco8fNfH4=
 
+co2ok-info-lib@./co2ok-info-lib:
+  version "0.1.0"
+  dependencies:
+    "@fortawesome/fontawesome-free" "^5.13.1"
+    core-js "^3.6.5"
+    vue "^2.6.11"
+
 coa@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/coa/-/coa-2.0.2.tgz#43f6c21151b4ef2bf57187db0d73de229e3e7ec3"

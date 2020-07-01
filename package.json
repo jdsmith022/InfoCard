@@ -10,6 +10,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.1",
     "bulma": "^0.9.0",
+    "co2ok-info-lib": "./co2ok-info-lib",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

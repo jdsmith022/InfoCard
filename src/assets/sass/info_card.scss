@@ -13,7 +13,7 @@
       }
       .display-card {
         position: absolute;
-        bottom: 60px;
+        bottom: 30px;
         max-width: 350px;
         margin-left: auto;
         margin-right: auto;
@@ -29,35 +29,41 @@
               .spacing {
                 padding-bottom: 16px;
               }
+              .top-box {
+                min-height: 70px;
+              }
               .info-box {
-                max-width: 90%;
+                max-width: 95%;
+                padding: 8px !important;
                 justify-content: center;
                 margin: auto;
                 border-style: solid;
                 border-color: #71d771;
-                // background: #dfffdf;
                 .box-images {
                   img {
                     width: 70px;
                   }
                   .bottom-left-image {
                     position: absolute;
-                    bottom: 63px;
-                    left: 6px;
+                    bottom: 51px;
+                    left: -1px;
                   }
                   .top-left-image {
                     position: absolute;
-                    top: 36px;
-                    left: 6px;
+                    top: 24px;
+                    left: -1px;
                   }
                   .top-right-image {
                     position: absolute;
-                    top: 36px;
-                    right: 6px;
+                    top: 24px;
+                    right: -1px;
                   }
                 }
+                .top-text {
+                  width: 88%;
+                }
                 p {
-                  padding-left: 16px;
+                  padding-left: 36px;
                   font-size: .70rem;
                   text-align: left;
                 }
