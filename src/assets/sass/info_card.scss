@@ -34,7 +34,7 @@
                 min-height: 70px;
               }
               .info-box {
-                max-width: 95%;
+                max-width: 86%;
                 padding: 8px !important;
                 justify-content: center;
                 margin: auto;
@@ -42,22 +42,22 @@
                 border-color: #71d771;
                 .box-images {
                   img {
-                    width: 70px;
+                    width: 74px;
                   }
                   .bottom-left-image {
                     position: absolute;
-                    bottom: 51px;
-                    left: -1px;
+                    bottom: 49px;
+                    left: 10px;
                   }
                   .top-left-image {
                     position: absolute;
-                    top: 24px;
-                    left: -1px;
+                    top: 22px;
+                    left: 10px;
                   }
                   .top-right-image {
                     position: absolute;
-                    top: 24px;
-                    right: -1px;
+                    top: 22px;
+                    right: 10px;
                   }
                 }
                 .top-text {
@@ -95,6 +95,25 @@
       .info-content {
         .display-card {
           min-width: 240px;
+          .card {
+            .card-content {
+              .card-boxes {
+                .info-box {
+                  .box-images {
+                    .top-right-image {
+                      top: 31px;
+                    }
+                    .top-left-image {
+                      top: 31px;
+                    }
+                  }
+                  p {
+                    padding-left: 30px;
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }

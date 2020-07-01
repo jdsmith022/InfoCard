@@ -57,7 +57,7 @@ export default {
   name: 'InfoCard',
   data() {
     return {
-      active: false
+      active: false,
     }
   },
   methods: {
