@@ -3,7 +3,7 @@
     <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="https://co2ok.eco/">
-          <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+          <img src="../assets/images/eco-friendly.png" width="28" height="28">
         </a>
         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>

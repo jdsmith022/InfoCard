@@ -13,9 +13,9 @@
                   <div class="spacing">
                     <div class="box info-box">
                       <p>
-                        All greenhosue emissions from
+                        All greenhosue emissions from the
                         <i><strong>manufacturing</strong></i> and <i><strong>shipping</strong></i>
-                        of your purchase are calculated.
+                        of your purchase is calculated.
                       </p>
                     </div>
                   </div>
