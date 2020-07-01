@@ -1,5 +1,14 @@
 # InfoCard
 
+![Demo of InfoCard](![Demo of Rick and Morty API](https://github.com/jdsmith022/RickAndMorty/blob/master/src/images/rickAndMorty.gif))
+
+## Description
+Quick project to play with layout of info card as an internship project for CO2ok.
+
+I did not have time to fully alter and test the layout or play around with different layout ideas.
+
+I tried to create a separate library that would hold the InfoCard to but added into this project as a plugin, but I was having issue with getting the images to show properly, so for lack of time, I abandoned that. (With the intension to resolve later).
+
 ## Project setup
 ```
 yarn install
