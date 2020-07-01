@@ -1,6 +1,6 @@
 # InfoCard
 
-![Demo of InfoCard](![Demo of Rick and Morty API](https://github.com/jdsmith022/InfoCard/blob/master/git_images/info.gif))
+![Demo of InfoCard](https://github.com/jdsmith022/InfoCard/blob/master/git_images/info.gif)
 
 ## Description
 Quick project to play with layout of info card as an internship project for CO2ok.
