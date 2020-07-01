@@ -8,36 +8,35 @@
               <div class="card-content">
                 <div class="card-boxes">
                   <div class="spacing">
-                    <div class="box info-box top-box">
-                      <div class="box-images">
-                        <div class="top-left-image">
-                          <img src="../assets/images/factory.png" />
-                        </div>
-                        <div class="top-right-image">
-                          <img src="../assets/images/truck.png" />
-                        </div>
+                    <div class="box-images">
+                      <hr/>
+                      <div class="top-left-image">
+                        <img src="../assets/images/factory.png" />
                       </div>
-                      <p class="top-text">
-                        All greenhosue emissions from the
-                        <i><strong>manufacturing</strong></i> and <i><strong>shipping</strong></i>
-                        of your purchase is calculated.
-                      </p>
+                      <div class="top-right-image">
+                        <img src="../assets/images/truck.png" />
+                      </div>
                     </div>
+                    <p class="top-text">
+                      All greenhosue emissions from the
+                      <i><strong>manufacturing</strong></i> and <i><strong>shipping</strong></i>
+                      of your purchase is calculated.
+                    </p>
                   </div>
                   <div class="card-boxes">
-                    <div class="box info-box">
-                      <div class="box-images">
-                        <div class="bottom-left-image">
-                          <img src="../assets/images/renewable.png" />
-                        </div>
+                    <div class="box-images">
+                      <div class="bottom-left-image">
+                        <img src="../assets/images/renewable.png" />
                       </div>
-                      <div class="box-text">
-                        <p>
-                          CO₂ok prevents the same amount
-                          of greenhosue emissions, making
-                          your purchase carbon neutral!
-                        </p>
-                      </div>
+                    </div>
+                    <div class="box-text">
+                      <p>
+                        CO₂ok prevents the same amount
+                        of greenhosue emissions. <br /><br />
+                      </p>
+                      <p class="neutral">
+                        This makes your purchase carbon neutral!
+                      </p>
                     </div>
                   </div>
                 </div>

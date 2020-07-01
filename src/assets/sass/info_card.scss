@@ -33,46 +33,49 @@
               .top-box {
                 min-height: 70px;
               }
-              .info-box {
-                max-width: 86%;
-                padding: 8px !important;
-                justify-content: center;
-                margin: auto;
-                border-style: solid;
-                border-color: #71d771;
-                .box-images {
-                  img {
-                    width: 74px;
-                  }
-                  .bottom-left-image {
-                    position: absolute;
-                    bottom: 49px;
-                    left: 10px;
-                  }
-                  .top-left-image {
-                    position: absolute;
-                    top: 22px;
-                    left: 10px;
-                  }
-                  .top-right-image {
-                    position: absolute;
-                    top: 22px;
-                    right: 10px;
-                  }
+              .box-images {
+                img {
+                  width: 55px;
                 }
-                .top-text {
-                  width: 88%;
+                hr {
+                  background-color: #71d771;
+                  size: 500px;
+                  position: absolute;
+                  width: 4px;
+                  top: 29px;
+                  left: 41px;
+                  height: 150px;
                 }
-                p {
-                  padding-left: 36px;
-                  font-size: .70rem;
-                  text-align: left;
+                .bottom-left-image {
+                  position: absolute;
+                  bottom: 15px;
+                  left: 15px;
                 }
+                .top-left-image {
+                  position: absolute;
+                  top: 23px;
+                  left: 15px;
+                }
+                .top-right-image {
+                  position: absolute;
+                  top: 100px;
+                  left: 15px;
+                }
+              }
+              p {
+                padding-left: 72px;
+                font-size: .80rem;
+                text-align: left;
+              }
+              .neutral {
+                color:  #0f6d0f;
+                text-decoration: underline;
               }
             }
             .bottom-text {
               font-size: .75rem;
               padding-top: 16px;
+              padding-left: 16px;
               a {
                 color: green;
                 &:hover {
