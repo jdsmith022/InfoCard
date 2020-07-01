@@ -85,3 +85,64 @@
     }
   }
 }
+
+
+//tablet and smaller
+@media(max-width: 768px) {
+  .info-card {
+    .info-icon {
+      .info-content {
+        .display-card {
+          min-width: 240px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 630px){
+  .info-card {
+    .info-icon {
+      .info-content {
+        .display-card {
+          .card {
+            .card-content {
+              .card-boxes {
+                .info-box {
+                  .box-images {
+                    .top-right-image {
+                      top: 49px;
+                      right: -3px;
+                    }
+                    .top-left-image {
+                      top: 49px;
+                      left: -3px;
+                    }
+                    .bottom-left-image {
+                      bottom: 67px;
+                    }
+                  }
+                  p {
+                    padding-left: 30px;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 425px) {
+  .info-card {
+    .info-icon {
+      .info-content {
+        .display-card {
+          left: -34px;
+        }
+      }
+    }
+  }
+}

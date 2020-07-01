@@ -1,19 +1,19 @@
 <template>
   <div id="app">
     <NavBar />
-    <Header />
+    <PageLayout />
   </div>
 </template>
 
 <script>
 import NavBar from './components/NavBar.vue'
-import Header from './components/Header.vue'
+import PageLayout from './components/PageLayout.vue'
 
 export default {
   name: 'App',
   components: {
     NavBar,
-    Header
+    PageLayout
   }
 }
 </script>

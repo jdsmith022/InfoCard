@@ -8,7 +8,7 @@
               A whole new world
             </h1>
             <h3>
-              and a whole new card
+              and a whole new information card
             </h3>
             <div class="information-card">
               <InfoCard />
